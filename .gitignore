@@ -1,3 +1,14 @@
+# Data files — too large for GitHub
+data/
+*.csv
+
+# API keys
+.env
+secrets.py
+
+# VSCode settings
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
